@@ -73,13 +73,13 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
    **Terminal 1 (Backend):**
    ```bash
    cd backend
-   pnpm dev
+   pnpm run dev
    ```
 
    **Terminal 2 (Frontend):**
    ```bash
    cd frontend
-   pnpm dev
+   pnpm run dev
    ```
 
    O backend estará disponível em: `http://localhost:4000/graphql`
